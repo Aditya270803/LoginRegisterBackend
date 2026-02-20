@@ -1,0 +1,9 @@
+.git
+.github
+.idea
+.settings
+target
+node_modules
+*.log
+*.iml
+README*
